@@ -7,6 +7,9 @@ Desenvolvida uma ETL utilizando uma API do Github para obter as linguagens de pr
 | :sparkles: Nome        | **Pipeline ETL com API do Github**
 | :label: Tecnologias | python, requests, pandas, dotenv, os
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://vitrinedev.s3.amazonaws.com/pipeline_requests.png#vitrinedev)
+
 ## Detalhes do projeto
 
 - Desenvolver um pipeline ETL utilizando a biblioteca Requests do Python
